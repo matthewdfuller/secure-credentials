@@ -1,0 +1,16 @@
+{
+  "name": "secure-credentials",
+  "version": "0.0.1",
+  "description": "Securely save credentials on S3 and download at run-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "credentials",
+    "password"
+  ],
+  "author": "Matt Fuller",
+  "license": "ISC"
+}
